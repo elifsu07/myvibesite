@@ -1,0 +1,9 @@
+container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1;
+    min-width: 720px; /* Minimum genişliği ayarlayın */
+}
